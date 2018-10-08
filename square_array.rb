@@ -4,5 +4,5 @@ def square_array(array)
     n *= n
     q<<n
   end 
-  return array 
+  return q
 end
